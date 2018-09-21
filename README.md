@@ -1,26 +1,49 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Pre-work - *blog-app*
 
+**blog-app** is a web application using html, css, javascript, mongo, jquery, sementic UI and express.js.
 
-Hi there! Welcome to Cloud9 IDE!
+Submitted by: **Jie Lan**
 
-To get you started, we included a small hello world application.
+Time spent: **20** hours spent in total
 
-1) Open the hello-world.html file
+## User Stories
 
-2) Click on the Preview button to open a live preview pane
+The following **required** functionality is complete:
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+* List all posted information on the home page.
+* User can add new post by click new post(information including image, tilte and description).
+* User can edit the previous post.
+* User can delete the previous post.
+* Use semantic UI to improve the page design.
+* Use express.js to build up the server.
+* Use mongo to set up the database.
 
-Happy coding!
-The Cloud9 IDE team
+## Video Walkthrough 
 
+Here's a walkthrough of implemented user stories:
 
-## Support & Documentation
+<img src='view.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Describe any challenges encountered while building the app.
+* I never learn swift before, so I have to start learning swift from beginning in a short time.
+* When I try to develop the UI of the app, I need to use photoshop, which looks like is not a computer science field.
+
+## License
+
+    Copyright [Jie Lan] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
